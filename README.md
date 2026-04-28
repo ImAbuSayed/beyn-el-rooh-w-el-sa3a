@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> يا حبيبي في عيوني نور
+> كل نبضة في قلبي بتدور
+> بين الروح والساعة زمان
+> ونار الشوق تنده لك كمان
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
