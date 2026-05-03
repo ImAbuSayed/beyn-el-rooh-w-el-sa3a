@@ -10,7 +10,7 @@
 |-------|---------|
 | Title | Beyn El Rooh W El Sa3a |
 | Written By | [Abu Sayed](https://abusayed.com.bd/) |
-| Lyric Writing Date | April 29, 2026 |
+| Lyric Writing Date | April 28, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/beyn-el-rooh-w-el-sa3a/) |
 | License | [View License](./LICENSE.md) |
 | Artist | Abu Sayed |
