@@ -13,6 +13,7 @@
 | Lyric Writing Date | April 28, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/beyn-el-rooh-w-el-sa3a/) |
 | License | [View License](./LICENSE.md) |
+| Get License | [Get License For Beyn El Rooh W El Sa3a](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
